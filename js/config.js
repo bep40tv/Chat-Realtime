@@ -1,5 +1,5 @@
 // Domain
-const domain = "http://REPLACE";
+const domain = "iconic-atrium-295406.firebaseapp.com";
 
 // MySQL API
 const apis = 'api.php';
@@ -9,8 +9,8 @@ const imageDir = 'image';
 
 // Replace with: your firebase account
 const config = {
-    apiKey: "REPLACE",
-    databaseURL: "https://REPLACE.firebaseio.com"
+    apiKey: "AIzaSyBN5MRjqOGBMXNYyTWeso0ITrafaeKz8Jc",
+    databaseURL: "https://iconic-atrium-295406-default-rtdb.asia-southeast1.firebasedatabase.app"
 };
 firebase.initializeApp(config);
 
