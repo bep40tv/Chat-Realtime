@@ -4,7 +4,7 @@
 $imageDir = "image";
 
 // Replace with: your database account
-$username 	= "root";
-$password 	= "";
+$username 	= "odaunhat_chat";
+$password 	= "tqvuong30061987";
 $host  		= "localhost";
 $name    	= "chat_realtime";
